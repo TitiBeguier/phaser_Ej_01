@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "phaser": "^3.55.2",
+    "react-scripts": "^5.0.1"
+  }
+}
